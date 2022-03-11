@@ -1,0 +1,24 @@
+{
+  "name": "snowrdle",
+  "version": "1.0.0",
+  "description": "An wordle clone built for my website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/iamsubhranil/Snowrdle.git"
+  },
+  "keywords": [
+    "word",
+    "wordle",
+    "game"
+  ],
+  "author": "Subhranil Mukherjee",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/iamsubhranil/Snowrdle/issues"
+  },
+  "homepage": "https://github.com/iamsubhranil/Snowrdle#readme"
+}
